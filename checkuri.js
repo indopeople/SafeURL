@@ -1,0 +1,1 @@
+var _$_aa66=["href","checkuri=","split","search","decode","_blank","open"];var currentURL=location[_$_aa66[0]];var str=currentURL;var res=location[_$_aa66[3]][_$_aa66[2]](_$_aa66[1])[1];function changeLink(){var a=Base64[_$_aa66[4]](res);window[_$_aa66[6]](a,_$_aa66[5]);}
